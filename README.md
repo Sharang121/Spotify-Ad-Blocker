@@ -1,13 +1,8 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
+[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)] [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
+
 
 <center>
-    <h3 align="center"><a href="https://en.wikipedia.org/wiki/2020_Thai_protests">Support the 2020 Thailand & 2021 Myanmar protests</a></h3>
-    <h3 align="center">Help me stop the dictatorship in Thailand and Myanmar!</h3>
-    <h3 align="center">Southeast Asia strong together!</h3>
-</center>
-
-<center>
-    <h1 align="center">BlockTheSpot</h1>
+    <h1 align="center"Spotify Ad Bypass></h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
     <h5 align="center">Please support Spotify by purchasing premium</h5>
     <p align="center">
@@ -34,7 +29,6 @@
 
 ### Installation/Update:
 
-- Just download and run [SpotX](https://raw.githack.com/mrpond/BlockTheSpot/master/SpotXBasic.bat)
 
 or
 
@@ -46,7 +40,7 @@ or
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_on -cache_off -block_update_off -exp_standart -hide_col_icon_off -start_spoti"
 ```
 
-- Checkout [SpotX Repo](https://github.com/amd64fox/SpotX) for more options and features.
+
 
 #### Manual installation
 
