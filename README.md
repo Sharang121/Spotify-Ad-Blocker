@@ -42,7 +42,7 @@ or
 
 
 
-#### Manual installation
+### Manual installation
 
 1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
 2. Rename `chrome_elf.dll` to `chrome_elf_bak.dll`. The naming is important.
